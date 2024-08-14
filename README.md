@@ -170,3 +170,11 @@ This project is a Customer CRUD application built with Spring Boot, JPA, and MyS
     - Method: GET
     - Parameters: `cmd=get_customer_list`
     - Header: `Authorization: Bearer token_received_in_authentication`
+## Sample Frontend 
+
+1. ****LogIn Page***
+   
+![loging](https://github.com/user-attachments/assets/e2818ce6-b1e5-41a6-9985-78df6859f74b)
+
+2. ***Home Page Loading***
+   ![Loading](https://github.com/user-attachments/assets/2f081d70-a3c3-43fb-92e5-863e1dca31db)
